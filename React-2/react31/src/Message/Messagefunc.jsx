@@ -8,7 +8,6 @@ let Messagefunc =()=>{
     let gnHandler=()=>{
         setMsg("Hello,Gn")
     }
-    
 
     return <div>
         <h3>Message Component</h3>
